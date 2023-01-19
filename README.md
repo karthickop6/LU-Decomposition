@@ -9,7 +9,9 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 step 1:start
+
 step 2:get an input from user
+
 step 3: display the value 4.step 4:stop
  
 
